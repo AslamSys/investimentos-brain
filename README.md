@@ -1,5 +1,19 @@
 # 📊 Investimentos Brain
 
+## 🔗 Navegação
+
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Investimentos (RPi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/investimentos/README.md)** → **investimentos-brain**
+
+### Containers Relacionados (investimentos)
+- [investimentos-trading-bot](https://github.com/AslamSys/investimentos-trading-bot)
+- [investimentos-technical-analysis](https://github.com/AslamSys/investimentos-technical-analysis)
+- [investimentos-news-sentiment](https://github.com/AslamSys/investimentos-news-sentiment)
+- [investimentos-betting-bot](https://github.com/AslamSys/investimentos-betting-bot)
+- [investimentos-ml-predictor](https://github.com/AslamSys/investimentos-ml-predictor)
+- [investimentos-portfolio-manager](https://github.com/AslamSys/investimentos-portfolio-manager)
+
+---
+
 **Container:** `investimentos-brain`  
 **LLM:** Ollama Qwen 3B Q4_K_M  
 **Hardware:** Raspberry Pi 5 16GB
@@ -95,6 +109,20 @@ Payload: {
 
 ```markdown
 # SISTEMA: Analista Financeiro Mordomo
+
+## 🔗 Navegação
+
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Investimentos (RPi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/investimentos/README.md)** → **investimentos-brain**
+
+### Containers Relacionados (investimentos)
+- [investimentos-trading-bot](https://github.com/AslamSys/investimentos-trading-bot)
+- [investimentos-technical-analysis](https://github.com/AslamSys/investimentos-technical-analysis)
+- [investimentos-news-sentiment](https://github.com/AslamSys/investimentos-news-sentiment)
+- [investimentos-betting-bot](https://github.com/AslamSys/investimentos-betting-bot)
+- [investimentos-ml-predictor](https://github.com/AslamSys/investimentos-ml-predictor)
+- [investimentos-portfolio-manager](https://github.com/AslamSys/investimentos-portfolio-manager)
+
+---
 
 ## FUNÇÃO
 Você é o módulo de investimentos do assistente Mordomo.
